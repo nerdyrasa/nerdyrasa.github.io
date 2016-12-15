@@ -7615,8 +7615,8 @@ blockquote {
 }
 
 .card-link {
-    /*font-family: devicons;*/
-    font-size: 16px;
+    font-family: devicons;
+    font-size: 24px;
     color: #8c9ea7;
 }
 
