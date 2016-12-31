@@ -7543,7 +7543,7 @@ blockquote {
 
 #intro {
     background-color: #2a577c;
-    background-image: url(../images/lego-1279x958.jpg);
+    background-image: url(../img/lego-1279x958.png);
     color: hsla(0,0%,100%,1)
 }
 
@@ -7599,7 +7599,7 @@ blockquote {
 }
 
 #contact {
-    background-image: url(../images/play-bricks-640x480.jpg)
+    background-image: url(../img/play-bricks-640x480.jpg)
 }
 
 .card.small .card-image {
