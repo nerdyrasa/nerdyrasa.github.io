@@ -7628,7 +7628,7 @@ blockquote {
     width: 100%
 }
 
-.card .card-image .card-title:hover {
+.card .card-image img:hover, .card .card-image .card-title:hover {
     background: rgba(0,0,0,.5)
 }
 
